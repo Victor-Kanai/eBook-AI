@@ -2,7 +2,7 @@
 
 Prompts utilizados para criar o eBook seguem abaixo.
 
-<a href="" title="Leia o eBook Feito por uma AI"> 📔Leia o eBook por aqui📔</a>
+<a href="https://github.com/Victor-Kanai/eBook-AI/blob/main/eBook/Cronicas%20do%20MonoBehaviour.pdf" title="Leia o eBook Feito por uma AI"> 📔Leia o eBook por aqui📔</a>
 
 ## ⚙️ Ferramentas utilizadas no projeto
 
